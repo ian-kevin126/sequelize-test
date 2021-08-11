@@ -19,5 +19,5 @@ const { User, Blog } = require('./model')
       id: 1,
     },
   })
-  console.log('deleteUser11', deleteUser)
+  console.log('deleteUser', deleteUser)
 })()
