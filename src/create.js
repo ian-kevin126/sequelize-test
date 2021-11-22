@@ -1,5 +1,5 @@
 /**
- * 新增
+ * 新增用户
  */
 const { User, Blog } = require('./model')
 
